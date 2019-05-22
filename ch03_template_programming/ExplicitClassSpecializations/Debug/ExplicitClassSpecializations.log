@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\cpp17_workspace\ch03_template_programming\ExplicitClassSpecializations\DynamicArrayForBool.h(38): warning C4018: '>=': signed/unsigned mismatch
+D:\cpp17_workspace\ch03_template_programming\ExplicitClassSpecializations\DynamicArrayForBool.h(53): warning C4018: '<': signed/unsigned mismatch
+  ExplicitClassSpecializations.vcxproj -> D:\cpp17_workspace\ch03_template_programming\Debug\ExplicitClassSpecializations.exe
