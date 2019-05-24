@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thecxhacker/Desktop/cpp17_workspace/ch04_smart_pointers/shared_ptr_example/main.cpp
+iostream
+-
+string
+-
+memory
+-
+sstream
+-
+

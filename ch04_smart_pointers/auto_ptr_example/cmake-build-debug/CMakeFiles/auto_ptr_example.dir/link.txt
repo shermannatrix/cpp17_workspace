@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/auto_ptr_example.dir/main.cpp.o  -o auto_ptr_example 

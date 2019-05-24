@@ -1,0 +1,3 @@
+/home/thecxhacker/Desktop/cpp17_workspace/ch04_smart_pointers/unique_ptr_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thecxhacker/Desktop/cpp17_workspace/ch04_smart_pointers/unique_ptr_example/cmake-build-debug/CMakeFiles/unique_ptr_example.dir
+/home/thecxhacker/Desktop/cpp17_workspace/ch04_smart_pointers/unique_ptr_example/cmake-build-debug/CMakeFiles/edit_cache.dir
